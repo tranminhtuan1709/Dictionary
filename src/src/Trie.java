@@ -8,7 +8,7 @@ public class Trie {
     private Map<String, List<String>> wordToMeanings = new HashMap<>();
     private static final String fileIN = "src/Dictionaries.txt";
     /**
-     * Default constructor.
+     * ldkfjlskdjf
      */
     public Trie() {
 
